@@ -30,7 +30,6 @@ Seoul National University
 
 ```python
 scores = __TODO__
-
 print(scores)
 ```
 
@@ -45,7 +44,6 @@ __TODO__
 ```python
 # 가장 큰 값을 가진 객체를 반환한다.
 best_score = __TODO__  
-
 print(best_score)
 ```
 
@@ -54,7 +52,6 @@ print(best_score)
 ```python
 # 가장 작은 값을 가진 객체를 반환한다.
 bottom_score = __TODO__ 
-
 print(bottom_score)
 ```
 
@@ -63,7 +60,6 @@ print(bottom_score)
 ```python
 # 가장 높은 점수와 낮은 점수의 차이를 구한다.
 difference = __TODO__  
-
 print(difference)
 ```
 
@@ -72,7 +68,6 @@ print(difference)
 ```python
 # 성적 점수 리스트의 평균을 구한다.
 average = __TODO__  
-
 print(average)
 ```
 
@@ -90,7 +85,6 @@ print(sorted_scores)
 ```python
 # 성적 점수를 역순으로 뒤집어 튜플로 만든다.
 reversed_scores = __TODO__  
-
 print(reversed_scores)
 ```
 
@@ -98,7 +92,6 @@ print(reversed_scores)
 
 ```python
 top5 = __TODO__
-
 print(top5)
 ```
 
@@ -141,7 +134,6 @@ print(__TODO__)
 
 ```python
 __TODO__
-
 print(__TODO__)
 ```
 
@@ -150,7 +142,6 @@ print(__TODO__)
 
 ```python
 dict_average = __TODO__
-
 print(dict_average)
 ```
 
