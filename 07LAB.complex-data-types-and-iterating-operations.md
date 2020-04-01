@@ -88,14 +88,14 @@ reversed_scores = __TODO__
 print(reversed_scores)
 ```
 
-상위 5개의 점수를 변수 *top5*에 할당한 후, *top5*를 출력한다.
+상위 **5**개의 점수를 변수 *top5*에 할당한 후, *top5*를 출력한다.
 
 ```python
 top5 = __TODO__
 print(top5)
 ```
 
-맨 앞에서 만든 성적 점수 리스트 *scores*에 있는 점수 중 **60**점 이상인 점수만 **if
+앞서 만든 성적 점수 리스트 *scores*에 있는 점수 중 **60**점 이상인 점수만 **if
 ** 조건문을 사용해서 리스트 형식으로 출력한다.
 
 ```python
@@ -123,25 +123,28 @@ else:
 
 ```python
 dict_scores = __TODO__
+print(dict_scores)
 ```
 
 *dict_scores*에서 '라이언'의 점수를 출력한다.
 
 ```python
+# 키 값으로 매핑값을 추출한다.
 print(__TODO__)  
 ```
 
 *dict_scores*에서 '제이지'의 점수를 **71**로 수정한 후 '제이지'의 점수를 출력한다.
 
 ```python
+# 키를 통해 매핑값을 수정한다.
 __TODO__
 print(__TODO__)
 ```
 
 성적 점수 딕셔너리 *dict_scores*에서 모든 학생 점수의 평균을 구해서 변수 *dict_average*에 할당한 후, *dict_average*를 출력한다.
 
-
 ```python
+# 모든 학생 점수의 평균을 구한다.
 dict_average = __TODO__
 print(dict_average)
 ```
